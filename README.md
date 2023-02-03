@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://camo.githubusercontent.com/f9ab3af0482570a32a73d256b071bbad03ca96df338f95f0297e775a8b53babd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f337a79573442414f6d356878795144714a372f67697068792e676966
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Emin-Yildiz&show_icons=true&theme=radical)
